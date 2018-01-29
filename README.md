@@ -1,3 +1,5 @@
+![logo ruby](ruby.JPEG)
+
 ## différence site statique et dynamique 
 ***
 un site statique comme son nom l'indique est composer de pages statique, cela ne veut pas dire des 
@@ -20,12 +22,6 @@ les routes définies dans app/config/routes.rb permettes de rediriger les requê
 ***
 ta base de données est l'endroit ou sont réunis toutes les information nécessaire pour ton site .
 example:
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-
 
 
 ## concept de migration
