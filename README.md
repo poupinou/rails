@@ -19,10 +19,13 @@ les routes définies dans app/config/routes.rb permettes de rediriger les requê
 ## les bases de données
 ***
 ta base de données est l'endroit ou sont réunis toutes les information nécessaire pour ton site .
-example: |user|adresse mail|mot de passse|
-	 |----|------------|-------------|
-	 |jean|jean.truc@  |mdp		 |
-	 |michou|michou.machin@|mdp2	 |
+example:
+| user     | adresse           | mot de pase |
+| ------------- |:-------------:| -----:|
+| JP   | JP.truc@ | mdp|
+| JM  | JM.machin@   |   mdp1 |
+| JC | JC.bidule@      |   mdp2|
+
 
 
 
